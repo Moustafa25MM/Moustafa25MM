@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Moustafa Mahmoud</h1>
-<h3 align="center">A Passionate Full Stack Developer from Egypt</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Redis, Elasticsearch, Cloud**
+- 🌱 I’m currently learning **Redis, Elasticsearch, Cloud Services**
 
-- 💬 Ask me about **TypeScript, MERN, Django**
+- 💬 Ask me about **TypeScript, MERN, Django and Databases**
 
 - 📫 How to reach me **moustafa.mahmoud.abdelkader@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QrLYYNEaO-I04dcopvcAiNefHLnU2UR5/view?usp=share_link](https://drive.google.com/file/d/1QrLYYNEaO-I04dcopvcAiNefHLnU2UR5/view?usp=share_link)
+
+- ⚡ Fun fact **The Matrix code comes from sushi recipes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
